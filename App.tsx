@@ -8,7 +8,6 @@ export default function App() {
     <View style={styles.container}>
       <UseStatePage />
 
-
       <StatusBar style="auto" />
     </View>
   );
@@ -17,6 +16,6 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
+    backgroundColor: '#F5F7FB',
   },
 });
